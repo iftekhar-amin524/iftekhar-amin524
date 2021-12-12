@@ -1,6 +1,6 @@
 ## Khondaker Iftekhar Amin
 ### Designer/Developer
-![Designer/Developer](https://cdn.codecarrot.net/images/designer-rotating-head-and-developer-up-down.gif)
+![Designer/Developer](https://i.gifer.com/KNcT.gif)
 
 Graduate from AIUB (American International University-Bangladesh) on CSE (Computer Science and Engineering).
 
