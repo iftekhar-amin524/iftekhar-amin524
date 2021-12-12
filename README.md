@@ -1,7 +1,7 @@
 ## Khondaker Iftekhar Amin
-<div align="center">
-<img sre='https://64.media.tumblr.com/f0a77ec73fd9feefdc64657a8b6f80ef/tumblr_nbvogcvEux1r51vveo1_400.gifv'
-</div>
+<p align="center">
+  <img src="https://64.media.tumblr.com/f0a77ec73fd9feefdc64657a8b6f80ef/tumblr_nbvogcvEux1r51vveo1_400.gifv" />
+</p>
 Graduate from AIUB (American International University-Bangladesh) on CSE (Computer Science and Engineering).
 
 ## Skills: C++, C#, Java, Python, Tensorflow, HCI, HTML, CSS, PHP, JS, AI, PS, Premiere Pro, XD
